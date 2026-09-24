@@ -1,0 +1,23 @@
+{
+  "name": "lab-teste-de-software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "test-cov": "npx jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonhsousadev/lab-teste-de-software.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonhsousadev/lab-teste-de-software/issues"
+  },
+  "homepage": "https://github.com/jonhsousadev/lab-teste-de-software#readme",
+  "dependencies": {
+    "jest": "^30.5.2"
+  }
+}
