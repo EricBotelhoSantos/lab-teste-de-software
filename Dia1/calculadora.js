@@ -9,6 +9,8 @@ function subtrair(a, b) {
   return a - b;
 }
 
+
+
 // ============================================================
 // EM SALA, FAZER JUNTOS:
 // 1. Descomente o corpo de multiplicar e faça o teste passar.
@@ -16,4 +18,4 @@ function subtrair(a, b) {
 // ============================================================
 
 
-module.exports = { somar, subtrair};
+module.exports = {somar, subtrair};
