@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1790309995220" clover="3.2.0">
+  <project timestamp="1790309995220" name="All files">
+    <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4" elements="13" coveredelements="13" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
+    <file name="calculadora.js" path="C:\Projetos GitHub\lab-teste-de-software\Dia1\calculadora.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="13" count="3" type="stmt"/>
+      <line num="17" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="20" count="4" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
